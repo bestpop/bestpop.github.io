@@ -22,13 +22,13 @@ CHAPTER 1 시작하기
     
 
 1.2.2 기본 예제 코드
-
+```
 package main
 import "fmt"
 func main() {
   fmt.Println("Hello, playground")
 }
-
+```
 *   컴파일러가 ; 을 자동으로 붙여 줌. 단, 쉼표나 연산자 또는 여는 괄호 등으로 끝이 나면 안됨!
     
 *   한 줄 주석(//)과 블록 주석(/\* \*/) 사용 가능
